@@ -31,7 +31,7 @@ With the upcoming group of employees approaching retirement, over 90,000 roles w
 
 Though we have organized the information in several different ways, there are several other queries that will help better prepare for the upcoming "silver tsunami." There are enough retirement-ready employees to mentor the next generation of Pewlett-Hackard employees, however it would be beneficial to compare their departments to those of the employees eligible for mentorship. The first image below shows the count of employees approaching retirement broken down by department, and the second image shows the number of employees eligible for mentorship broken down by department. With this query, we can see that the numbers are fairly proportionate, and there will be plenty of retirement-ready employees available in each department.</br>
 
-![Alt Text](https://github.com/lyanneagger/Pewlett-Hackard-Analysis/blob/main/Data/retiring_dept.png)   
+![Alt Text](https://github.com/lyanneagger/Pewlett-Hackard-Analysis/blob/main/Data/retiring_dept.png) 
 ![Alt Text](https://github.com/lyanneagger/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_dept.png)</br>
 
 Another query that may be helpful is opening up the mentorship eligibility beyond those born in 1965. Allowing more employees to be mentored by the soon-to-be retirees, the company can take full advantage of the most experienced employees passing on as much of their knowledge and experience before they retire.
